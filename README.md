@@ -17,7 +17,6 @@
 | [Detour](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Detour.html) | ![](png/Detour.png) |
 | [Message&#32;Router](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageRouter.html) | ![](png/Message&#32;Router.png) |
 | [Resequencer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Resequencer.html) | ![](png/Resequencer.png) |
-
 | [Document&#32;Message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/DocumentMessage.html) | ![](png/Document&#32;Message.png) |
 | [Message&#32;Sequence](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageSequence.html) | ![](png/Message&#32;Sequence.png) |
 | [Return&#32;Address](https://www.enterpriseintegrationpatterns.com/patterns/messaging/ReturnAddress.html) | ![](png/Return&#32;Address.png) |
