@@ -1,6 +1,6 @@
 # enterprise-application-integration-patterns
 
-| Name | Diagram | Description |
+| Name | Diagram | Why it exists? |
 | ---- | ---- | ---- |
 | [Aggregator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Aggregator.html) | ![](png/Aggregator.png) |
 | [Correlation ID](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CorrelationIdentifier.html) | ![](png/Correlation&#32;ID.png) |
@@ -25,8 +25,8 @@
 | [Message&#32;Store](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageStore.html) | ![](png/Message&#32;Store.png) |
 | [Routing&#32;Slip](https://www.enterpriseintegrationpatterns.com/patterns/messaging/RoutingTable.html) | ![](png/Routing&#32;Slip.png) |
 | [Command&#32;Message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CommandMessage.html) | ![](png/Command&#32;Message.png) |
-| [Envelope&#32;Wrapper](https://www.enterpriseintegrationpatterns.com/patterns/messaging/EnvelopeWrapper.html) | ![](png/Envelope&#32;Wrapper.png) |
-| [Message&#32;Translator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageTranslator.html) | ![](png/Message&#32;Translator.png) |
+| [Envelope&#32;Wrapper](https://www.enterpriseintegrationpatterns.com/patterns/messaging/EnvelopeWrapper.html) | ![](png/Envelope&#32;Wrapper.png) | To allow existing systems to participate with specific message format requirements (e.g. encryption and header fields) |
+| [Message&#32;Translator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageTranslator.html) | ![](png/Message&#32;Translator.png) | To provide an adapter from one system message to another system message |
 | [Selective&#32;Consumer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageSelector.html) | ![](png/Selective&#32;Consumer.png) |
 | [Competing&#32;Consumers](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CompetingConsumers.html) | ![](png/Competing&#32;Consumers.png) |
 | [Event&#32;Message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/EventMessage.html) | ![](png/Event&#32;Message.png) |
